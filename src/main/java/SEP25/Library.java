@@ -6,5 +6,6 @@ package SEP25;
 public class Library {
     public boolean someLibraryMethod() {
         return true;
+
     }
 }
